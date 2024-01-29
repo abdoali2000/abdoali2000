@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abd El-Rahman Shabara</h1>
 <h3 align="center">A Backend Development Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyadhamza" alt="eyadhamza" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/eyadhamza8" target="blank"><img src="https://img.shields.io/twitter/follow/eyadhamza8?logo=twitter&style=for-the-badge" alt="eyadhamza8" /></a> </p>
-
 
 - 🌱 I’m currently learning **Backend Development & Software Engineering**
 
