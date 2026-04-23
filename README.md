@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abd El-Rahman Shabara</h1>
-<h3 align="center">A Backend Development Learner</h3>
+<h3 align="center"Full Stack Developer | MEARN</h3>
 
 
 - 🌱 I’m currently learning **Backend Development & Software Engineering**
